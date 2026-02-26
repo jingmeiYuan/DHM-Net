@@ -4,7 +4,7 @@
 *Figure: Overview of the [HA-Net] framework [A Hierarchical Attention Network for Robust Visual Inspection in Industrial Environments].*
 
 **[HA-Net]** is a[HA-Net is a hierarchical attention network for robust visual inspection in industrial environments]
-[![GitHub Stars](https://img.shields.io/github/stars/[你的GitHub用户名/项目名]?style=social)]([你的GitHub项目链接])
+[![GitHub Stars]((https://github.com/jingmeiYuan/HA-Net.git))]
 
 ---
 
@@ -35,13 +35,11 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [你的GitHub项目链接].git
-   cd [项目文件夹名]
-1. Clone the repository:
+   git clone [https://github.com/jingmeiYuan/HA-Net].git
+   cd [HA-Net]
+2. Install dependencies:
    ```bash
-   git clone [你的GitHub项目链接].git
-   cd [项目文件夹名]
-1. Clone the repository:
+   pip install -r requirements.txt
+3. Download pre-trained models
    ```bash
-   git clone [你的GitHub项目链接].git
-   cd [项目文件夹名]
+   wget https://github.com/jingmeiYuan/HA-Net.git/releases/download/
