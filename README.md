@@ -1,4 +1,5 @@
 # [HA-Net]: [Bridging Local and Global Contexts: A Hierarchical Attention Network for Robust Visual Inspection in Industrial Environments] 
+The code of "Bridging Local and Global Contexts: A Hierarchical Attention Network for Robust Visual Inspection in Industrial Environments" from The Visual Computer.
 ![Framework Overview](https://github.com/jingmeiYuan/HA-Net/blob/53dab4fd908d7a0e12be7e9001c7773dd6dc7ddc/Framework%20Overview.png)  
 ![Framework Overview]([(https://github.com/jingmeiYuan/HA-Net/blob/53dab4fd908d7a0e12be7e9001c7773dd6dc7ddc/Framework%20Overview.png)])  
 *Figure: Overview of the [HA-Net] framework [A Hierarchical Attention Network for Robust Visual Inspection in Industrial Environments].*
