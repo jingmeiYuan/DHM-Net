@@ -32,6 +32,30 @@ The code of "Bridging Local and Global Contexts: A Hierarchical Attention Networ
 - PyTorch ≥ [2.0.0]
 - CUDA ≥ [12.1]
 
+## 📊 Datasets
+
+In this study, we utilize the following publicly available datasets for [Defect detection] ；
+
+- **NEU-DET**  
+  [Official Website](https://drive.google.com/file/d/1qrdZlaDi272eA79b0uCwwqPrm2Q_WI3k/view?pli=1)
+
+- **GC10-DET**  
+  [Download Link](https://pan.baidu.com/s/1Zrd-gzfVhG6oKdVSa9zoPQ) Verify Code：cdyt
+
+👉 **Dataset Usage**: NEU-DET and GC10-DET are used for defect detection.
+
+### 📋 Dataset Preparation
+After downloading, organize the datasets as follows:  
+#### Dataset Structure
+```bash
+├── datasets/  
+   ├── images/ 
+       ├── train/ 
+       ├── val/   
+   ├── labels/ 
+       ├── train/ 
+       ├── val/
+```
 
 ### Steps
 1. Clone the repository:
