@@ -56,6 +56,18 @@ After downloading, organize the datasets as follows:
        ├── train/ 
        ├── val/
 ```
+## 🚀 Training and val
+
+We provide scripts for both  defect detection tasks.
+
+### Industrial Defect Detection
+- **Training**:
+  ```bash
+  python train.py
+
+- **Val**:
+  ```bash
+  python val.py
 
 ### Steps
 1. Clone the repository:
