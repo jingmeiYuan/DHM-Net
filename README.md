@@ -44,3 +44,21 @@ The code of "Bridging Local and Global Contexts: A Hierarchical Attention Networ
 3. Download pre-trained models
    ```bash
    wget https://github.com/jingmeiYuan/HA-Net.git/releases/download/
+
+
+
+---
+   ##  Citation
+If you find this work useful in your research, please consider citing our paper:
+
+@article{wu2026dual,  
+  title={Bridging Local and Global Contexts: A Hierarchical Attention Network for Robust Visual Inspection in Industrial Environments},  
+  author={Jingmei Yuan,Ang Li and Xiushuang Yang,  
+  journal={The Visual Computer},  
+  year={2026},  
+  publisher={Springer},  
+}  
+
+---
+ ##  Contact
+ If you have any questions about our work or code, please email 35555147@qq.com .
