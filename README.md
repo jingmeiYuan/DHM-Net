@@ -1,13 +1,12 @@
-# [DHM-Net]
 # DHM-Net: A Lightweight Dual-Backbone Network with Hierarchical Attention for Real-Time Industrial Surface Defect Detection
 
 This repository contains the official implementation of **DHM-Net**, a lightweight dual-backbone network with hierarchical attention for real-time industrial surface defect detection.
-![Framework Overview](https://github.com/jingmeiYuan/HA-Net/blob/53dab4fd908d7a0e12be7e9001c7773dd6dc7ddc/Framework%20Overview.png)  
-![Framework Overview]([(https://github.com/jingmeiYuan/HA-Net/blob/53dab4fd908d7a0e12be7e9001c7773dd6dc7ddc/Framework%20Overview.png)])  
-*Figure: Overview of the [DHM-Net] framework [ A Lightweight Dual-Backbone Network with Hierarchical Attention for Real-Time Industrial Surface Defect Detection].*
 
-**[HA-Net]** is a[HA-Net is a hierarchical attention network for robust visual inspection in industrial environments]
-[![GitHub Stars]((https://github.com/jingmeiYuan/HA-Net.git))]
+![Framework Overview](Framework%20Overview.png)
+*Figure: Overview of the DHM-Net framework.*
+
+---
+
 
 ---
 
