@@ -78,10 +78,7 @@ We provide scripts for both  defect detection tasks.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-3. Download pre-trained models
-   ```bash
-   # TODO: Add the download link after you publish the release
-   # wget https://github.com/jingmeiYuan/DHM-Net/releases/download/v1.0/dhmnet_pretrained.pth
+
 
 
 
