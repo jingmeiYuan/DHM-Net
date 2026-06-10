@@ -89,7 +89,7 @@ We provide scripts for both  defect detection tasks.
 If you find this work useful in your research, please consider citing our paper:
 
 @article{yuan2026bridging,
-  title={Bridging Local and Global Contexts: A Hierarchical Attention Network for Robust Visual Inspection in Industrial Environments},
+  title={DHM-Net: A Lightweight Dual-Backbone Network with Hierarchical Attention for Real-Time Industrial Surface Defect Detection},
   author={Yuan, Jingmei and Li, Ang and Yang, Xiushuang},
   journal={The Visual Computer},
   year={2026},
