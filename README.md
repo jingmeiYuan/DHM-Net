@@ -73,14 +73,15 @@ We provide scripts for both  defect detection tasks.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jingmeiYuan/HA-Net].git
-   cd [HA-Net]
+   git clone https://github.com/jingmeiYuan/DHM-Net.git
+   cd DHM-Net
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 3. Download pre-trained models
    ```bash
-   wget https://github.com/jingmeiYuan/HA-Net.git/releases/download/
+   # TODO: Add the download link after you publish the release
+   # wget https://github.com/jingmeiYuan/DHM-Net/releases/download/v1.0/dhmnet_pretrained.pth
 
 
 
