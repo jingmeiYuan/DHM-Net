@@ -89,7 +89,7 @@ If you find this work useful in your research, please consider citing our paper:
 @article{yuan2026bridging,
   title={DHM-Net: A Lightweight Dual-Backbone Network with Hierarchical Attention for Real-Time Industrial Surface Defect Detection},
   author={Yuan, Jingmei and Li, Ang and Yang, Xiushuang},
-  journal={The Visual Computer},
+  journal={The Journal of Supercomputing},
   year={2026},
   publisher={Springer}
 }  
